@@ -3,7 +3,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/nodeshift-starters/nodejs-rest-http-crud/badge.svg?branch=master)](https://coveralls.io/github/nodeshift-starters/nodejs-rest-http-crud?branch=master) 
 
 Example CRUD Application
-TEST
+
 ### Getting Started
 
 #### Running Locally
